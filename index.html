@@ -5,8 +5,8 @@
 <body style='margin:0px; overflow:hidden;'>
 <a-scene embedded arjs="debugUIEnabled:false;trackingMethod:best;" vr-mode-ui="enabled: false">
     <a-assets>
-        <a-asset-item id="cow-obj" src="cow.obj"></a-asset-item>
-        <a-asset-item id="cow-mtl" src="cow.mtl"></a-asset-item>
+      <a-asset-item id="cow-obj" src="./cow.obj"></a-asset-item>
+      <a-asset-item id="cow-mtl" src="./cow.mtl"></a-asset-item>
     </a-assets>
     <a-marker preset="hiro">
       <a-entity obj-model="obj: #cow-obj; mtl: #cow-mtl" position="0 1 -1.5" rotation="0 135 0"></a-entity>
