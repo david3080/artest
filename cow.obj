@@ -9087,8 +9087,7 @@ vn -0.4417 -0.8340 0.3308
 vn -0.2361 -0.9299 0.2821
 vn -0.3101 -0.6249 0.7164
 vn -0.2945 -0.2139 0.9314
-g spot_quadrangulated_spot_quadrangulated___PS_3D_Default
-usemtl __PS_3D_Default
+usemtl body
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 4/4/4 3/3/3 2/2/2
