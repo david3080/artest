@@ -8,7 +8,10 @@
       <a-asset-item id="cow-obj" src="./cow.obj"></a-asset-item>
       <a-asset-item id="cow-mtl" src="./cow.mtl"></a-asset-item>
     </a-assets>
-    <a-entity obj-model="obj: #cow-obj; mtl: #cow-mtl" position="0 1 -1.5" rotation="0 135 0"></a-entity>
+    <a-marker preset="hiro">
+      <a-obj-model id="cow" src="#cow-obj" mtl="#cow-mtl" position="0 0 0" scale="0.5 0.5 0.5" rotation="0 0 0"></a-obj-model>
+    </a-marker>
+    <a-entity camera/>
 </a-scene>
 </body>
 </html>
