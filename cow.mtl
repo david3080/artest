@@ -1,7 +1,7 @@
 # Blender MTL File: 'cow.blend'
 # Material Count: 1
 
-newmtl __PS_3D_Default
+newmtl body
 Ns 6.062869
 Ka 1.000000 1.000000 1.000000
 Kd 0.803922 0.803922 0.803922
