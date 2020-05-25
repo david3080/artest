@@ -1,7 +1,7 @@
 # Blender v2.82 (sub 7) OBJ File: 'cow.blend'
 # www.blender.org
 mtllib cow.mtl
-o spot_quadrangulated
+o Cube_Cube.001
 v 0.341299 -0.375944 0.366232
 v 0.335878 -0.384495 0.425693
 v 0.317288 -0.397295 0.364448
