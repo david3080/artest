@@ -1,0 +1,13 @@
+# Blender MTL File: 'cow.blend'
+# Material Count: 1
+
+newmtl __PS_3D_Default
+Ns 6.062869
+Ka 1.000000 1.000000 1.000000
+Kd 0.803922 0.803922 0.803922
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd cow.png
