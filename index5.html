@@ -9,6 +9,7 @@
     <a-scene embedded arjs="debugUIEnabled:false;">
       <a-marker preset="hiro">
         <a-obj-model scale="0.5 0.5 0.5" rotation="0 135 0" src="./akabeko.obj" mtl="./akabeko.mtl"></a-obj-model>
+	<a-animation attribute="position" to="-0.5 0 0" direction="alternate" dur="1000" repeat="indefinite" easing="linear"></a-animation>
       </a-marker>
       <a-entity camera/>
     </a-scene>
